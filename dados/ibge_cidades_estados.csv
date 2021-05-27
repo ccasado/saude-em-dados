@@ -1,31 +1,28 @@
-Estados do Brasil
-UF [-],C&oacute;digo [-],Gent&iacute;lico [-],Governador [2019],Capital [2010],&Aacute;rea Territorial - km&sup2; [2020],Popula&ccedil;&atilde;o estimada - pessoas [2020],Densidade demogr&aacute;fica - hab/km&sup2; [2010],Matrículas no ensino fundamental - matr&iacute;culas [2018],IDH &lt;span&gt;Índice de desenvolvimento humano&lt;/span&gt; [2010],Receitas realizadas - R$ (&times;1000) [2017],Despesas empenhadas - R$ (&times;1000) [2017],Rendimento mensal domiciliar per capita - R$ [2020],Total de ve&iacute;culos - ve&iacute;culos [2020],
-Acre,12,acriano,GLADSON DE LIMA CAMELI,Rio Branco,164173.431,894470,4.47,157646,0.663,6632883.10836,6084416.8063,917,306258,
-Alagoas,27,alagoano,JOSE RENAN VASCONCELOS CALHEIROS FILHO,Macei&oacute;,27830.656,3351543,112.33,490587,0.631,11950438.46015,10460634.91711,796,930933,
-Amap&aacute;,16,amapaense,ANTONIO WALDEZ G&Oacute;ES DA SILVA,Macap&aacute;,142470.762,861773,4.69,136185,0.708,5396417.14471,4224464.08829,893,215330,
-Amazonas,13,amazonense,WILSON MIRANDA LIMA,Manaus,1559167.878,4207714,2.23,705007,0.674,17328459.43402,15324896.55705,852,969722,
-Bahia,29,baiano,RUI COSTA DOS SANTOS,Salvador,564760.427,14930634,24.82,2034711,0.660,50191003.24052,45570160.0038,965,4506825,
-Cear&aacute;,23,cearense,CAMILO SOBREIRA DE SANTANA,Fortaleza,148894.442,9187103,56.76,1198116,0.682,28420222.47191,24608352.18276,1028,3395382,
-Distrito Federal,53,brasiliense,IBANEIS ROCHA BARROS JUNIOR,Bras&iacute;lia,5760.784,3055149,444.66,377622,0.824,23812211.27074,21990464.6849,2475,1934210,
-Esp&iacute;rito Santo,32,capixaba ou esp&iacute;rito-santense,JOSE RENATO CASAGRANDE,Vit&oacute;ria,46074.447,4064052,76.25,502059,0.740,19685616.74376,14392338.00188,1347,2078459,
-Goi&aacute;s,52,goiano,RONALDO RAMOS CAIADO,Goi&acirc;nia,340242.854,7113540,17.65,877593,0.735,37885335.16848,24248380.34233,1258,4203370,
-Maranh&atilde;o,21,maranhense,FL&Aacute;VIO DINO DE CASTRO E COSTA,S&atilde;o Lu&iacute;s,329651.495,7114598,19.81,1178949,0.639,18503261.35491,17627170.75574,676,1855570,
-Mato Grosso,51,mato-grossense,MAURO MENDES FERREIRA,Cuiab&aacute;,903207.050,3526220,3.36,471613,0.725,23958528.83588,18187363.27009,1401,2322156,
-Mato Grosso do Sul,50,sul-mato-grossense ou mato-grossense-do-sul,REINALDO AZAMBUJA SILVA,Campo Grande,357147.994,2809394,6.86,404114,0.729,16396655.77012,14506915.37404,1488,1707671,
-Minas Gerais,31,mineiro,ROMEU ZEMA NETO,Belo Horizonte,586513.993,21292666,33.41,2511483,0.731,97199823.15616,98391669.16323,1314,12053218,
-Par&aacute;,15,paraense,HELDER ZAHLUTH BARBALHO,Bel&eacute;m,1245870.707,8690745,6.07,1439788,0.646,25849446.10454,22533470.04547,883,2229234,
-Para&iacute;ba,25,paraibano,JO&Atilde;O AZEVEDO LINS FILHO,Jo&atilde;o Pessoa,56467.242,4039277,66.70,556248,0.658,13097005.31928,10074700.04266,892,1409592,
-Paran&aacute;,41,paranaense,CARLOS ROBERTO MASSA JUNIOR,Curitiba,199298.982,11516840,52.40,1427218,0.749,60163576.12246,55534402.97483,1508,8077413,
-Pernambuco,26,pernambucano,PAULO HENRIQUE SARAIVA C&Acirc;MARA,Recife,98067.880,9616621,89.62,1301930,0.673,35746028.97102,33320486.44445,897,3223404,
-Piau&iacute;,22,piauiense,JOS&Eacute; WELLINGTON BARROSO DE ARA&Uacute;JO DIAS,Teresina,251755.485,3281480,12.40,480126,0.646,12124215.61511,9676736.31835,859,1291415,
-Rio de Janeiro,33,fluminense,CL&Aacute;UDIO BOMFIM DE CASTRO E SILVA,Rio de Janeiro,43750.426,17366189,365.23,2003315,0.761,78488140.78862,67965548.69757,1723,7087797,
-Rio Grande do Norte,24,potiguar ou  norte-rio-grandense ou  rio-grandense-do-norte,MARIA DE FATIMA BEZERRA,Natal,52809.601,3534165,59.99,467629,0.684,13527552.73159,11330957.55333,1077,1391338,
-Rio Grande do Sul,43,ga&uacute;cho ou sul-rio-grandense,EDUARDO FIGUEIREDO CAVALHEIRO LEITE,Porto Alegre,281707.149,11422973,37.96,1298736,0.746,66397468.17915,62476279.34364,1759,7495615,
-Rond&ocirc;nia,11,rondoniense ou rondoniano,MARCOS JOSE ROCHA DOS SANTOS,Porto Velho,237765.347,1796460,6.58,269626,0.690,9122310.72305,7085530.0168,1169,1070952,
-Roraima,14,roraimense,ANTONIO OLIVERIO GARCIA DE ALMEIDA,Boa Vista,223644.527,631181,2.01,96582,0.707,4419450.41557,3384683.73914,983,239393,
-Santa Catarina,42,catarinense ou barriga-verde,CARLOS MOIS&Eacute;S DA SILVA,Florian&oacute;polis,95730.684,7252502,65.27,851993,0.774,34696772.82078,25595103.37918,1632,5583126,
-S&atilde;o Paulo,35,paulista,JO&Atilde;O AGRIPINO DA COSTA DORIA JUNIOR,S&atilde;o Paulo,248219.481,46289333,166.23,5367614,0.783,232822496.56706,231982243.69176,1814,30778960,
-Sergipe,28,sergipano ou sergipense,BELIVALDO CHAGAS SILVA,Aracaju,21938.184,2318822,94.36,331297,0.665,10145046.95355,8494927.19996,1028,836822,
-Tocantins,17,tocantinense,MAURO CARLESSE,Palmas,277423.630,1590248,4.98,246183,0.699,10305099.01288,8929456.43836,1060,754206,
-
-<table class="fontes-container"><tr><th>Notas:</th></tr><tr><td>População estimada: Diferença de 783 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual, Diferença de 451 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual, Diferença de 210 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual, Diferença de 2.603 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual</td></tr><tr><td>Rendimento mensal domiciliar per capita: As estimativas de rendimento apresentadas atendem ao disposto na Lei Complementar 143/2013, que estabelece os novos critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal - FPE e, em consequência, aos compromissos assumidos quanto à definição dos valores a serem repassados ao Tribunal de Contas da União - TCU para o cálculo dos fatores representativos do inverso do rendimento domiciliar per capita</td></tr><tr><th>Fontes:</th></tr><tr><td>Área Territorial: Área territorial brasileira 2020. Rio de Janeiro: IBGE, 2021</td></tr><tr><td>População estimada: IBGE, Diretoria de Pesquisas, Coordenação de População e Indicadores Sociais, Estimativas da população residente com data de referência 1o de julho de 2020</td></tr><tr><td>Densidade demogr&aacute;fica: IBGE, Censo Demográfico 2010, Área territorial brasileira. Rio de Janeiro: IBGE, 2011</td></tr><tr><td>IDH <span>Índice de desenvolvimento humano</span>: Programa das Nações Unidas para o Desenvolvimento - PNUD</td></tr><tr><td>Matrículas no ensino fundamental: INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Sinopse Estatística da Educação Básica 2018. Brasília: Inep, 2019. Disponível em <http://portal.inep.gov.br/sinopses-estatisticas-da-educacao-basica>. Acesso em: 10 05. 2019.</td></tr><tr><td>Total de ve&iacute;culos: Ministério da Infraestrutura, Departamento Nacional de Trânsito - DENATRAN - 2018</td></tr><tr><td>Receitas realizadas: Contas anuais. Receitas orçamentárias realizadas (Anexo I-C) 2017 e Despesas orçamentárias empenhadas (Anexo I-D) 2017. In: Brasil. Secretaria do Tesouro Nacional, Siconfi: Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro. Brasília, DF, [2018]. Disponível em: https://siconfi.tesouro.gov.br/siconfi/pages/public/consulta_finbra/finbra_list.jsf. Acesso em: set. 2018</td></tr><tr><td>Despesas empenhadas: Contas anuais. Receitas orçamentárias realizadas (Anexo I-C) 2017 e Despesas orçamentárias empenhadas (Anexo I-D) 2017. In: Brasil. Secretaria do Tesouro Nacional, Siconfi: Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro. Brasília, DF, [2018]. Disponível em: https://siconfi.tesouro.gov.br/siconfi/pages/public/consulta_finbra/finbra_list.jsf. Acesso em: set. 2018</td></tr><tr><td>Rendimento mensal domiciliar per capita: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD Contínua - 2020</td></tr></table>
+UF,População 2020
+Acre,894470
+Alagoas,3351543
+Amapá,861773
+Amazonas,4207714
+Bahia,14930634
+Ceará,9187103
+Distrito Federal,3055149
+Espirito Santo,4064052
+Goias,7113540
+Maranhão,7114598
+Mato Grosso,3526220
+Mato Grosso do Sul,2809394
+Minas Gerais,21292666
+Pará,8690745
+Paraíba,4039277
+Paraná,11516840
+Pernambuco,9616621
+Piauí,3281480
+Rio de Janeiro,17366189
+Rio Grande do Norte,3534165
+Rio Grande do Sul,11422973
+Rondônia,1796460
+Roraima,631181
+Santa Catarina,7252502
+São Paulo,46289333
+Sergipe,2318822
+Tocantins,1590248
